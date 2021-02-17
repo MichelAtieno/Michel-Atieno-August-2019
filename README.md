@@ -1,5 +1,5 @@
 # Michel Atieno Portolio
-# By Michel Atieno, created on 20th August 2019.
+# By Michel Atieno
 
 
 # You can view on https://michelatieno.github.io/Michel-Atieno-August-2019/
