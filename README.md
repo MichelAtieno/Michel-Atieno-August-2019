@@ -1,39 +1,11 @@
 # Michel Atieno Portolio
 # By Michel Atieno, created on 20th August 2019.
 
-### Description
-![alt text]
 
-# You can view project on https://michelatieno.github.io/Michel-Atieno-August-2019/
-
-
-## Set-up and Installation
-###     Prerequisites
-        - Python 3.6.6
-        - Ubuntu software
-
-<ul>
-    <li>Clone Project</li>
-    <li>Create and avtivate Virtual Environment</li>
-    <li>Download Django(Python Framework)</li>
-    <li> Prepare environment variables</li>
-    <li>Run Database Migrations</li>
-    <li>Run the app in development</li>
-    <li>Open the browser on `http://localhost:8000/` by running 'python3.6 manage.py runserver' on terminal</li>
-<ul>            
-
-## Known bugs
-None so far.
-
-## Technologies used
-    - Python 3.6 (Django Framework)
-    - Bootstrap 3 and 4
-    - Heroku
-    - Postgresql
-
+# You can view on https://michelatieno.github.io/Michel-Atieno-August-2019/
 
 ## Support and contact details
-Contact me on mishqamish@gmail.com for any comments, reviews or advice.
+Contact me on michelatieno23@gmail.com for any comments, reviews or advice.
 
 ### MIT License
 Copyright (c) **Michel Atieno**
