@@ -2,9 +2,9 @@
 # By Michel Atieno, created on 20th August 2019.
 
 ### Description
-![alt text](https://github.com/MichelAtieno/Michel-Atieno-August-2019/Rogue_Paperplanes.png)
+![alt text]
 
-# You can view project on https://instuglam.herokuapp.com/
+# You can view project on https://michelatieno.github.io/Michel-Atieno-August-2019/
 
 
 ## Set-up and Installation
