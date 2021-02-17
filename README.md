@@ -2,9 +2,8 @@
 # By Michel Atieno
 
 
-# You can view on https://michelatieno.github.io/Michel-Atieno-August-2019/
+You can view on https://michelatieno.github.io/Michel-Atieno-August-2019/
 
-## Support and contact details
 Contact me on michelatieno23@gmail.com for any comments, reviews or advice.
 
 ### MIT License
