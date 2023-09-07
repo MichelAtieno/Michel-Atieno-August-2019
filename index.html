@@ -17,7 +17,7 @@
 
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Michel Atieno's Portfolio</a>
+      <!-- <a class="navbar-brand js-scroll-trigger" href="#page-top">Michel Atieno's Portfolio</a> -->
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i class="fas fa-bars"></i>
@@ -49,7 +49,7 @@
 
   <!-- Section-1 -->
 
-  <div class="container card" style="background-color: rgb(18, 18, 18);">
+  <div class="container card" id="whole-card">
       <div class="section-1">
         <div class="header">
           <img src="img/IMG_1331.JPG" class="img-fluid">
@@ -91,13 +91,22 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="front">
-                        <img src="https://bitnine.net/wp-content/uploads/2022/04/Password-Profile.png" alt="" class="img-fluid">
+                        <img src="img/software-project-1.png" alt="" class="img-fluid">
+                        <p>NBA Data Analysis</p>
                     </div>
                     <div class="back">
                         <ul>
-                            <li><p>user password policy reinforces login security</p></li>
-                            <li><p>excessive failed login attempts lock an account</p></li>
-                            <li><p>define rules for password complexity</p></li>
+                            <li><p>Data visualization project built using the Django framework that fetches data from nba_api endpoints.</p></li>
+                            <li>
+                              <a target="_blank" href="https://nba-data-app.onrender.com/active_players">
+                                Link to Website <i class="fa fa-link"></i>
+                              </a>
+                            </li>
+                            <li>
+                              <a target="_blank" href="https://github.com/MichelAtieno/NBA_Data">
+                                Link to Github <i class="fab fa-github"></i>
+                              </a>
+                            </li>
                         </ul>            
                     </div>
                 </div>
@@ -107,13 +116,22 @@
                 <!-- <p>excessive failed login attempts lock an account</p> -->
                <div class="card">
                     <div class="front">
-                        <img src="https://bitnine.net/wp-content/uploads/2022/04/Data-Redaction.png" alt="" class="img-fluid">
+                        <img src="img/software-project-2.png" alt="" class="img-fluid">
+                        <p>Responsive Home Page Website</p>
                     </div>
                     <div class="back">
                         <ul>
-                            <li><p>enhanced data security of user personal information</p></li>
-                            <li><p>resolve privacy issues in preparation for security audits</p></li>
-                            <li><p>encryption or masking with unidentifiable special characters</p></li>
+                            <li><p>Simple replica of bitnine.net Home page.</p></li>
+                            <li>
+                              <a target="_blank" href="https://bitnine-render-app.onrender.com/">
+                                Link to Website <i class="fa fa-link"></i>
+                              </a>
+                            </li>
+                            <li>
+                              <a target="_blank" href="https://github.com/MichelAtieno/Apache_AGE_Que_5">
+                                Link to Github <i class="fab fa-github"></i>
+                              </a>
+                            </li>
                         </ul>            
                     </div>
                 </div>
@@ -122,14 +140,15 @@
                 <!-- <p>define rules for password complexity</p> -->
                 
                 <div class="card">
-                    <div class="front">
+                    <!-- <div class="front">
                         <img src="https://bitnine.net/wp-content/uploads/2022/04/Auditing.png" alt="" class="img-fluid">
-                    </div>
+                    </div> -->
                     <div class="back">
+                        <!-- <p>Work in Progress</p> -->
                         <ul>
-                            <li><p>monitors database activities and collects data</p></li>
-                            <li><p>traces object accessed or DDL & DML statements executed by a user</p></li>
-                            <li><p>records all actions in logs</p></li>
+                            <li><p>Work in Progress</p></li>
+                            <!-- <li><p>traces object accessed or DDL & DML statements executed by a user</p></li>
+                            <li><p>records all actions in logs</p></li> -->
                         </ul>            
                     </div>
                 </div>
@@ -283,11 +302,11 @@
 
             <div class="card row">
               <div class="col-md-4">
-                <img src="img/tech-for-granted.jpg" alt="" class="img-fluid">
+                <img src="img/tech-for-granted.jpg" alt="" class="img-fluid" id="t4g">
                 <h4>Tech For Granted Podcast</h4>
               </div>
               <div class="col-md-8">
-                <p>Conversations about technology in the Nairobi technology scene.</p>
+                <p>Conversations about technology, events, life in the start-up ecosystem in Nairobi and many more youthful stories.</p>
 
                 <p>You can find more information on the podcast here:</p>
              
@@ -328,16 +347,17 @@
             
             <div class="card row">
               <div class="col-md-4">
-                <img src="img/medium.svg" alt="" class="img-fluid">
+                <img src="img/medium.svg" alt="" class="img-fluid" id="medium">
                 <h4>Medium Blog</h4>
               </div>
               <div class="col-md-8">
-                <p>Conversations about technology in the Nairobi technology scene.</p>
+                <p>Blogs about experiences at Tech For Granted podcast and issues around technology, sports and so much more</p>
 
-                <p>You can find more information on the podcast here:</p>
+            
              
                 <ul class="social-media-links">
                   <li>
+                
                     <a target="_blank" href="https://medium.com/tech-for-granted">
                       <i class="fab fa-medium"></i>
                     </a>
